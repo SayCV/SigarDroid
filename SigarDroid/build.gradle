@@ -32,4 +32,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:+'
     compile files('libs/log4j.jar')
     compile files('libs/ant.jar')
+    compile files('libs/glibj.jar')
+    compile files('libs/cpptasks.jar')
 }

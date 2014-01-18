@@ -33,5 +33,4 @@ android {
 dependencies {
     compile 'com.android.support:gridlayout-v7:19.0.0'
     compile 'com.android.support:appcompat-v7:+'
-    compile project(':SigarDroid')
 }
